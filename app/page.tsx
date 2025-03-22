@@ -19,7 +19,7 @@ export default function Home() {
         <p className="text-xl mt-4 text-gray-300">Data Scientist | AI Researcher | ML Expert</p>
         <p className="mt-6 max-w-2xl text-gray-300 leading-relaxed">
         AI researcher specializing in deep learning, computer vision, and real-world ML applications. Passionate about building AI-driven chatbots, image processing models, and publishing research in hybrid AI systems.
-        </p>
+        Holds a Master of Computer Science. </p>
         <div className="mt-6 flex gap-4">
           <a href="#projects" className="px-6 py-3 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition">View My Projects</a>
           <a href="#blog" className="px-6 py-3 bg-yellow-500 text-black rounded-lg hover:bg-yellow-600 transition">Read My Blogs</a>
