@@ -1,4 +1,6 @@
 
+"use client";  // ✅ Add this at the top
+
 import { useState } from "react";
 import Head from "next/head";
 import projectsData from "../data/projects.json";
@@ -18,7 +20,7 @@ export default function Home() {
         <h1 className="text-6xl font-extrabold text-blue-400">Abhishek Yadav</h1>
         <p className="text-2xl mt-4 text-gray-300">Data Scientist | Machine Learning | Researcher</p>
         <p className="mt-6 max-w-2xl text-gray-300 leading-relaxed">
-          Innovative Data Scientist with a strong research focus in deep learning, computer vision, and AI-driven solutions. Passionate about research, technical writing, and AI applications.
+          Passionate about deep learning, AI-driven solutions, and real-world AI applications.
         </p>
       </section>
 
@@ -41,14 +43,6 @@ export default function Home() {
             </div>
           ))}
         </div>
-      </section>
-
-      {/* Blog Section */}
-      <section className="min-h-screen p-10 bg-gray-800 text-white">
-        <h2 className="text-5xl font-bold text-center mb-10 border-b-4 border-blue-500 pb-4">Blog & Research</h2>
-        <p className="text-lg text-gray-300 max-w-3xl mx-auto text-center">
-          Sharing insights on AI, machine learning, and computer vision.
-        </p>
       </section>
 
       {/* Contact Section */}
