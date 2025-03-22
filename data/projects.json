@@ -1,5 +1,6 @@
 
-[
+{
+  "previous": [
     {
       "title": "ChatGPT-Like AI Chatbot",
       "description": "An AI chatbot using GPT-4 Turbo, SymPy, and WolframAlpha API.",
@@ -8,9 +9,31 @@
     },
     {
       "title": "Smart Agriculture System",
-      "description": "AI-driven smart agriculture system with crop recommendation.",
+      "description": "AI-powered system for crop & fertilizer recommendation, plant disease detection, and precision agriculture.",
+      "liveDemo": "",
+      "github": "https://github.com/yourrepo"
+    },
+    {
+      "title": "Movie Recommendation System",
+      "description": "Collaborative filtering & content-based recommendation system for personalized movie suggestions.",
+      "liveDemo": "",
+      "github": "https://github.com/yourrepo"
+    },
+    {
+      "title": "Fake News Detection",
+      "description": "Machine learning model to classify real vs. fake news using NLP techniques.",
       "liveDemo": "",
       "github": "https://github.com/yourrepo"
     }
+  ],
+  "ongoing": [
+    {
+      "title": "Advanced Grayscale-to-Color Autoencoder",
+      "description": "Super-resolution, style transfer, real-time processing."
+    },
+    {
+      "title": "Research Paper on Plant Disease Detection",
+      "description": "Writing a research paper on plant disease detection using hybrid deep learning."
+    }
   ]
-  
+}
