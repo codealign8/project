@@ -1,0 +1,16 @@
+
+[
+    {
+      "title": "ChatGPT-Like AI Chatbot",
+      "description": "An AI chatbot using GPT-4 Turbo, SymPy, and WolframAlpha API.",
+      "liveDemo": "https://yourproject.com",
+      "github": "https://github.com/yourrepo"
+    },
+    {
+      "title": "Smart Agriculture System",
+      "description": "AI-driven smart agriculture system with crop recommendation.",
+      "liveDemo": "",
+      "github": "https://github.com/yourrepo"
+    }
+  ]
+  
